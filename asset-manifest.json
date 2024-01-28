@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/transTMP/static/css/main.d49420ea.css",
-    "main.js": "/transTMP/static/js/main.66ee016c.js",
-    "static/js/492.20addf64.chunk.js": "/transTMP/static/js/492.20addf64.chunk.js",
-    "static/js/27.ca18aa10.chunk.js": "/transTMP/static/js/27.ca18aa10.chunk.js",
-    "static/js/655.022b341e.chunk.js": "/transTMP/static/js/655.022b341e.chunk.js",
+    "main.css": "/transTMP/static/css/main.d437e082.css",
+    "main.js": "/transTMP/static/js/main.9b251180.js",
+    "static/js/525.b7caba9f.chunk.js": "/transTMP/static/js/525.b7caba9f.chunk.js",
+    "static/js/787.0d10e073.chunk.js": "/transTMP/static/js/787.0d10e073.chunk.js",
+    "static/js/197.e6a2aebd.chunk.js": "/transTMP/static/js/197.e6a2aebd.chunk.js",
     "static/media/HH.png": "/transTMP/static/media/HH.f4cea8628eee00c57dfa.png",
     "static/media/Nganh2021.jpg": "/transTMP/static/media/Nganh2021.85613fb1ad40023ee23f.jpg",
     "static/media/covid.png": "/transTMP/static/media/covid.f25b432deac6337c011b.png",
@@ -37,10 +37,15 @@
     "static/media/2.jpg": "/transTMP/static/media/2.fae128027cac6148382b.jpg",
     "static/media/MUSEUM.JPG": "/transTMP/static/media/MUSEUM.28c3af263300217afbab.JPG",
     "static/media/ZALO1.svg": "/transTMP/static/media/ZALO1.8b41951c11496fdfacb78c58107a8c39.svg",
-    "index.html": "/transTMP/index.html"
+    "index.html": "/transTMP/index.html",
+    "main.d437e082.css.map": "/transTMP/static/css/main.d437e082.css.map",
+    "main.9b251180.js.map": "/transTMP/static/js/main.9b251180.js.map",
+    "525.b7caba9f.chunk.js.map": "/transTMP/static/js/525.b7caba9f.chunk.js.map",
+    "787.0d10e073.chunk.js.map": "/transTMP/static/js/787.0d10e073.chunk.js.map",
+    "197.e6a2aebd.chunk.js.map": "/transTMP/static/js/197.e6a2aebd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d49420ea.css",
-    "static/js/main.66ee016c.js"
+    "static/css/main.d437e082.css",
+    "static/js/main.9b251180.js"
   ]
 }
